@@ -1,1 +1,0 @@
-# IntelligentDocumentProcessingUsingAWSTextractAndDOTNET_MVC_APP

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "2lXs0ZB+P4w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santo\\repos\\IntelligentDocumentProcessingUsingAWSTextractAndDOTNET_MVC_APP\\TextractWebApp\\TextractWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santo\\.nuget\\packages\\awssdk.core\\4.0.0.3\\awssdk.core.4.0.0.3.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\awssdk.extensions.netcore.setup\\4.0.0\\awssdk.extensions.netcore.setup.4.0.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\awssdk.textract\\4.0.0.2\\awssdk.textract.4.0.0.2.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
